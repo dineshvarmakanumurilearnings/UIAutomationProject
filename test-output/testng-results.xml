@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59527" started-at="2020-11-14T04:12:03Z" finished-at="2020-11-14T04:13:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59527" started-at="2020-11-14T04:12:03Z" finished-at="2020-11-14T04:13:02Z">
+      <class name="test.application.testPages.EtoETest">
+        <test-method status="PASS" signature="browsersetUp()[pri:0, instance:test.application.testPages.EtoETest@14948e4]" name="browsersetUp" is-config="true" duration-ms="27229" started-at="2020-11-14T04:12:03Z" finished-at="2020-11-14T04:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetUp -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:test.application.testPages.EtoETest@14948e4]" name="logIn" duration-ms="133" started-at="2020-11-14T04:12:30Z" finished-at="2020-11-14T04:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="searchItem()[pri:1, instance:test.application.testPages.EtoETest@14948e4]" name="searchItem" duration-ms="631" started-at="2020-11-14T04:12:30Z" finished-at="2020-11-14T04:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method status="PASS" signature="sortItem()[pri:2, instance:test.application.testPages.EtoETest@14948e4]" name="sortItem" duration-ms="9208" started-at="2020-11-14T04:12:31Z" finished-at="2020-11-14T04:12:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortItem -->
+        <test-method status="PASS" signature="pinCheckAndBuy()[pri:3, instance:test.application.testPages.EtoETest@14948e4]" name="pinCheckAndBuy" duration-ms="6033" started-at="2020-11-14T04:12:40Z" finished-at="2020-11-14T04:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinCheckAndBuy -->
+        <test-method status="PASS" signature="placeOrder()[pri:4, instance:test.application.testPages.EtoETest@14948e4]" name="placeOrder" duration-ms="11827" started-at="2020-11-14T04:12:46Z" finished-at="2020-11-14T04:12:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method status="PASS" signature="MakePayment()[pri:5, instance:test.application.testPages.EtoETest@14948e4]" name="MakePayment" duration-ms="2916" started-at="2020-11-14T04:12:58Z" finished-at="2020-11-14T04:13:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MakePayment -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.application.testPages.EtoETest@14948e4]" name="tearDown" is-config="true" duration-ms="1385" started-at="2020-11-14T04:13:01Z" finished-at="2020-11-14T04:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.application.testPages.EtoETest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
